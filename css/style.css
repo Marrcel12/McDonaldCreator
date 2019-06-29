@@ -3,8 +3,8 @@
     padding: 0;
     margin: 0;
 }
-.ham,.ice{
-    text-align: center;
+.ham,.ice,.chees{
+    
     margin-top: 2vh;
     margin-left: 50%;
     transform: translateX(-50%);
@@ -13,6 +13,10 @@
     border-radius: 50%;
     border-color: black;
     background-color: bisque;
+}
+.chees{
+    text-align:center;
+    
 }
 .kupon{
     margin-top: 6vh;
